@@ -1,5 +1,7 @@
+## no critic (RequireUseStrict)
 package {{$name}};
 
+## use critic (RequireUseStrict)
 use strict;
 use warnings;
 
