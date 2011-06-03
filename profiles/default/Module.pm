@@ -9,7 +9,7 @@ use warnings;
 
 __END__
 
-# ABSTRACT: A brief description of your module goes here
+# ABSTRACT:  A short description of {{$name}}
 
 =head1 SYNOPSIS
 
