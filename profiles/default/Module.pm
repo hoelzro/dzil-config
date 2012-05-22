@@ -9,7 +9,7 @@ use warnings;
 
 __END__
 
-# ABSTRACT:  A short description of {{$name}}
+# ABSTRACT: A short description of {{$name}}
 
 =head1 SYNOPSIS
 
